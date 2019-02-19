@@ -1,0 +1,13 @@
+F:\VS\报告生成软件\20190103JDBGSC\WordBase\bin\Release\WordBase.dll
+F:\VS\报告生成软件\20190103JDBGSC\WordBase\bin\Release\WordBase.pdb
+F:\VS\报告生成软件\20190103JDBGSC\WordBase\obj\Release\WordBase.csproj.ResolveComReference.cache
+F:\VS\报告生成软件\20190103JDBGSC\WordBase\obj\Release\WordBase.csproj.CoreCompileInputs.cache
+F:\VS\报告生成软件\20190103JDBGSC\WordBase\obj\Release\WordBase.dll
+F:\VS\报告生成软件\20190103JDBGSC\WordBase\obj\Release\WordBase.pdb
+F:\VS\报告生成软件\20190127JDBGSC\WordBase\bin\Release\WordBase.dll
+F:\VS\报告生成软件\20190127JDBGSC\WordBase\bin\Release\WordBase.pdb
+F:\VS\报告生成软件\20190127JDBGSC\WordBase\obj\Release\WordBase.csprojAssemblyReference.cache
+F:\VS\报告生成软件\20190127JDBGSC\WordBase\obj\Release\WordBase.csproj.ResolveComReference.cache
+F:\VS\报告生成软件\20190127JDBGSC\WordBase\obj\Release\WordBase.csproj.CoreCompileInputs.cache
+F:\VS\报告生成软件\20190127JDBGSC\WordBase\obj\Release\WordBase.dll
+F:\VS\报告生成软件\20190127JDBGSC\WordBase\obj\Release\WordBase.pdb

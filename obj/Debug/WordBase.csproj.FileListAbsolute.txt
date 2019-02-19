@@ -1,0 +1,6 @@
+F:\VS\报告生成软件\20190103JDBGSC\WordBase\obj\Debug\WordBase.csproj.ResolveComReference.cache
+F:\VS\报告生成软件\20190103JDBGSC\WordBase\obj\Debug\WordBase.csproj.CoreCompileInputs.cache
+F:\VS\报告生成软件\20190103JDBGSC\WordBase\bin\Debug\WordBase.dll
+F:\VS\报告生成软件\20190103JDBGSC\WordBase\bin\Debug\WordBase.pdb
+F:\VS\报告生成软件\20190103JDBGSC\WordBase\obj\Debug\WordBase.dll
+F:\VS\报告生成软件\20190103JDBGSC\WordBase\obj\Debug\WordBase.pdb
